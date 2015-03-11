@@ -1,2 +1,4 @@
 # TowerDefense
-ECSE 321 Tower Defense Group Project
+McGill ECSE 321: Introduction to Software Engineering
+Tower Defense Group Project
+(Group 12)
